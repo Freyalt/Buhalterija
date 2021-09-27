@@ -1,0 +1,108 @@
+.ered {
+    color: red;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+.ttable {
+    padding-top: 15px;
+}
+.sktta {
+    font-size: 30px;
+}
+.skttop {
+    padding: 15px 15px 40px 15px;
+    background-color: #a5a5a5;
+    cursor: pointer;
+}
+.dee {
+    padding-bottom: 15px;
+}
+.current {
+    background-color: #007bff;
+    color: #fff;
+}
+.insertSaskaitas {
+    padding: 12px;
+    background-color: #f8e2e2;
+}
+
+.hiddePirkejas {
+	display: none;
+}
+.gSas {
+    background-color: #e7e7e7;
+    padding: 10px 0px 10px 10px;
+}
+.gSas2 {
+    background-color: #e1dede;
+    padding: 10px 0px 10px 10px;
+}
+.dAntras {
+    background-color: #e7e7e7;
+    padding: 10px;
+}
+.dss {
+    background-color: #e7e7e7;
+    padding: 0px 0px 0px 0px;
+}
+.trinti {
+    margin-left: 10px;
+}
+th.tt {
+    width: 200px;
+}
+th.ktt {
+    width: 131px;
+}
+th.pvmtt {
+    width: 118px;
+}
+.Antras {
+    background-color: #e7e7e7;
+    padding: 7px;
+}
+th.idtt {
+    width: 40px;
+}
+.Pirmas {
+    background-color: #e1dede;
+    padding: 7px;
+}
+.dPirmas {
+    background-color: #e1dede;
+    padding: 5px;
+}
+
+tr.pirkejoDuomenys {
+    cursor: pointer;
+}
+
+.ppa {
+	padding-top: 10px;
+}
+.ppaa {
+    padding-top: 20px;
+    padding-bottom: 8px;
+}
+.marginTop20 {
+	margin-top: 20px;
+}
+.error {
+    color: red;
+}
+.borderT {
+    border: 1px solid #cacaca !important;
+}
+.clickTarget {
+    cursor: pointer;
+}
+.textRight {
+    text-align: right;
+}
+.textCenter {
+    text-align: center;
+}
+.itri {
+    background-color: #e1dede;
+    padding: 15px;
+}
